@@ -9,3 +9,5 @@ DASHBOARD LINK 3 - https://public.tableau.com/app/profile/sathishkumar.k8338/viz
 STORY 1 LINK - https://public.tableau.com/app/profile/sathishkumar.k8338/viz/StoryofExpenses1/StoryofExpenses1
 
 STORY 2 LINK - https://public.tableau.com/app/profile/sathishkumar.k8338/viz/StoryofExpenses2/StoryofExpenses2
+
+DEMO VEDIO LINK - https://drive.google.com/file/d/1ydPJH2NZ4aw5frQOcvhUQmpQhs0oL8cs/view?usp=share_link
